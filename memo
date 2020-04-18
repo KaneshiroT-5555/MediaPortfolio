@@ -1,0 +1,38 @@
+https://github.com/KaneshiroT-5555/MediaPortfolio
+https://kaneshirot-5555.github.io/portfolio/
+git remote add origin https://github.com/kaneshirot-5555.github.io/portfolio/
+git remote add origin https://github.com/KaneshiroT-5555/MediaPortfolio.git
+git remote add origin https://github.com/KaneshiroT-5555/MediaPortfolio.git
+git remote add origin https://github.com/KaneshiroT-5555/MediaPortfolio.git
+git remote add origin git@bitbucket.org:ユーザー名/アプリ名.git
+
+
+
+                               <div class="col-sm-9">
+                                    <p>PremierePro AfterEffectでウェディングビデオの作成をしました。</p>
+                                    <p>I created a wedding video with PremierePro AfterEffect.</p>
+                                </div>
+                                <div class="col-sm-3">
+                                    <p><strong>DATE:</strong> 2019/11</p>
+                                    <p class="mt30"><a href="index.html" class="btn btn-primary btn-theme page-scroll">HOME＜＜</a></p>
+                                </div>
+
+
+
+
+
+                                 <div class="col-sm-10 col-sm-offset-1">
+                            <div class="row project-item wow fadeIn" data-wow-delay="0.2s">
+                                <div class="col-sm-9">
+                                    <p>大垣メーカーフェアに「心を持った家電たち」を展示致しました。また、ツイッターで話題になり様々なメディアでとりあげられました。</p>
+                                    <a href="https://nlab.itmedia.co.jp/nl/articles/1812/04/news052.html">ねとらぼ　Google Homeと魚ロボを組み合わせた結果がシュールでかわいい</a>
+                                    <p>I exhibited "home appliances with heart" at Ogaki Maker Fair. Also, it became a hot topic on Twitter and was featured in various media.</p>
+                                </div>
+                                <div class="col-sm-3">
+                                    <p><strong>DATE:</strong> 21/01/2015</p>
+                                    <p><strong>CLIENT:</strong> Jeeves Design</p>
+                                    <p class="mb20"><strong>TAGS:</strong> Brand Design, Graphics</p>
+                                    <p class="mt30"><a href="index.html" class="btn btn-primary btn-theme page-scroll">HOME＜＜</a></p>
+                                </div>
+                            </div>
+                        </div>
