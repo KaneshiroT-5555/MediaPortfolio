@@ -10271,10 +10271,22 @@ header.masthead h1 {
 
 
 /* my_css */
-.iPhone{
-
+.loading-animation{
+    display:none;
     width:0;
     height:0;
     overflow:hidden;
+    color: blue;
+    color: blue;
+    background-color: blue;
+
+}
+
+.preloader{
+    display:none;
+    width:0;
+    height:0;
+    color: blue;
+    background-color: blue;
 
 }

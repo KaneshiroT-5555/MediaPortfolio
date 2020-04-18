@@ -470,7 +470,7 @@ http://codepen.io/jdlaplan/pen/Aowpj
 }
 
 .mfp-preloader {
-  color:#ccc;
+  color:rgb(187, 20, 20);
   position:absolute;
   top:50%;
   width:auto;
