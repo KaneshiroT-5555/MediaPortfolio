@@ -3,7 +3,7 @@
 }
 
 
-.preloader{
+#hideMe{
     -moz-animation: cssAnimation 0s ease-in 5s forwards;
     /* Firefox */
     -webkit-animation: cssAnimation 0s ease-in 5s forwards;
