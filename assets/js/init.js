@@ -342,3 +342,11 @@ $(function() {
     });
   });
 }(jQuery));
+
+
+// iPhon err
+$(function() {
+	if ( navigator.userAgent.indexOf('iPhone') > 0 ) {
+    $("#loade").addClass("iPhone");
+};
+});

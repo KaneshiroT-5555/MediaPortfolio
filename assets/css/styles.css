@@ -10271,8 +10271,10 @@ header.masthead h1 {
 
 
 /* my_css */
+.iPhone{
 
+    width:0;
+    height:0;
+    overflow:hidden;
 
-/* .Yvideo {
-    padding: left 20wd;;
-} */
+}
