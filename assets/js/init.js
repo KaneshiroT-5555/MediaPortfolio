@@ -345,51 +345,7 @@ $(function() {
 
 
 // iPhon err
-var _ua = (function(u){
-  return {
-    Tablet:(u.indexOf("windows") != -1 && u.indexOf("touch") != -1 && u.indexOf("tablet pc") == -1)
-      || u.indexOf("ipad") != -1
-      || (u.indexOf("android") != -1 && u.indexOf("mobile") == -1)
-      || (u.indexOf("firefox") != -1 && u.indexOf("tablet") != -1)
-      || u.indexOf("kindle") != -1
-      || u.indexOf("silk") != -1
-      || u.indexOf("playbook") != -1,
-    Mobile:(u.indexOf("windows") != -1 && u.indexOf("phone") != -1)
-      || u.indexOf("iphone") != -1
-      || u.indexOf("ipod") != -1
-      || (u.indexOf("android") != -1 && u.indexOf("mobile") != -1)
-      || (u.indexOf("firefox") != -1 && u.indexOf("mobile") != -1)
-      || u.indexOf("blackberry") != -1
-  }
-})(window.navigator.userAgent.toLowerCase());
-
-// $(function() {
-//   var ua = navigator.userAgent;
-// if( ua.indexOf('iPhone') > 0 ) {
-// //iPhoneならつけるクラス 
-//   $("#loade").addClass("iPhone");
-//   $('body').addClass('iPhone');
-// } else if( ua.indexOf('Android') > 0 && ua.indexOf('Mobile') > 0 ) {
-// //Andoroidのスマホならつけるクラス 
-// $('body').addClass('Android');
-// } else if( ua.indexOf('iPad') > 0 ) {
-// //iPadならつけるクラス 
-// $('body').addClass('iPad');
-// } 
-// });
-
-
-if(navigator.platform.indexOf("Win") != -1){
-  //Windowsならつけるクラス 
-  $('body').addClass('js_isWin');
-  }else{
-  //Windows以外ならつけるクラス 
-    $('body').addClass('js_isNotWin');
-  }
-
-
-$(function() {
-	if ( navigator.userAgent.indexOf('iPhone') > 0 ) {
-    $('#loade').addClass('iPhone');
+if ( navigator.userAgent.indexOf('iPhone') > 0 ) {
+  $('#loade').addClass('iPhone');
 };
-});
+
